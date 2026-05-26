@@ -149,34 +149,3 @@ Join PortfolioLearning..CovidVaccinations vac
 
 Select *
 From PercentPopulationVaccinated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
