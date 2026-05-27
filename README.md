@@ -1,7 +1,7 @@
 # COVID-19 Global Health Analytics Baseline
 
 ## 📊 Live Interactive Dashboard
-> 💡 **Link:** [Click here to execute the full interactive dashboard on Tableau Public] <https://public.tableau.com/app/profile/davon.shyu/viz/CovidDashboard_17798535652980/Dashboard1>
+> 💡 **Link:** [Click here to execute the full interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/davon.shyu/viz/CovidDashboard_17798535652980/Dashboard1)
 
 ---
 
